@@ -141,4 +141,4 @@ O mais interessante é que o resultado final é o mesmo, mas a segunda versão �
     #checknumber:checked ~ .button #movenumber {
       transform: translateY(-50%);
     }
-E nois ✌️
+E nois ate a proxima✌️.
